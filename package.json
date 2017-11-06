@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/TiagoSaldanha/site/issues"
   },
-  "homepage": "https://github.com/TiagoSaldanha/site#readme"
+  "homepage": "https://github.com/TiagoSaldanha/site#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
 }
