@@ -1,0 +1,17 @@
+{
+  "name": "site-do-zero",
+  "homepage": "https://github.com/TiagoSaldanha/site",
+  "authors": [
+    "TiagoSaldanha <tiagosaldanha2016@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
