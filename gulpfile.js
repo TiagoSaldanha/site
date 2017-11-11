@@ -17,7 +17,7 @@ gulp.task('sass', function(){
 			.pipe(sass(prod))
 			.on('error', sass.logError)
 			// .pipe(rename('index.min.css'))
-			.pipe(gulp.dest('./css/min'))
+			.pipe(gulp.dest('./css/min/'))
 });
 
 // Task para o Sass em ambiente de desenvolvimento
